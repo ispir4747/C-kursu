@@ -1,2 +1,3 @@
 # C-kursu
-murat yüçedağ
+murat yüçedağ kursu
+
